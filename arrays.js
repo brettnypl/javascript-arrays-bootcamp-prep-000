@@ -10,3 +10,11 @@ function destructivelyAddElementToBeginningOfArray() {
   shoeBrands.unshift("asics");
 }
 
+function addElementToEndOfArray() {
+  var kartCharacters = ["yoshi", "toad", "peach"];
+  
+}
+
+function destructivelyAddElementToEndOfArray() {
+  
+}
