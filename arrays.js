@@ -19,3 +19,8 @@ function destructivelyAddElementToEndOfArray() {
   var cereals = ["cheerios", "bran", "flakes"];
   cereals.push("smacks");
 }
+
+function accessElementInArray() {
+  var presidents = ["washington", "adams", "jefferson"];
+  
+}
