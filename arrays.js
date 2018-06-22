@@ -44,3 +44,9 @@ function destructivelyRemoveElementFromEndOfArray() {
   yogurts;
 }
 
+function removeElementFromEndOfArray() {
+  var junk = ["garbage", "nonsense", "trash"];
+  junk.slice(0, 2);
+  junk;
+}
+
