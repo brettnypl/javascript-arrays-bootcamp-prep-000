@@ -6,5 +6,7 @@ function addElementToBeginningOfArray() {
 }
 
 function destructivelyAddElementToBeginningOfArray() {
-  
+  var shoeBrands = ["nike", "adidas", "fila"];
+  shoeBrands.unshift("asics");
 }
+
