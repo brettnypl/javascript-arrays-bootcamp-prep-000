@@ -22,7 +22,7 @@ function destructivelyAddElementToEndOfArray() {
 
 function accessElementInArray() {
   var presidents = ["washington", "adams", "jefferson"];
-  return(presidents[2]);
+  presidents[2];
 }
 
 function destructivelyRemoveElementFromBeginningOfArray() {
@@ -31,3 +31,6 @@ function destructivelyRemoveElementFromBeginningOfArray() {
   fruits;
 }
 
+function destructivelyRemoveElementFromBeginningOfArray() {
+  
+}
