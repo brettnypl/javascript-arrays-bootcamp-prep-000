@@ -12,9 +12,10 @@ function destructivelyAddElementToBeginningOfArray() {
 
 function addElementToEndOfArray() {
   var kartCharacters = ["yoshi", "toad", "peach"];
-  
+  [...kartCharacters, "bowser"];
 }
 
 function destructivelyAddElementToEndOfArray() {
-  
+  var cereals = ["cheerios", "bran", "flakes"];
+  cereals.push("smacks");
 }
