@@ -38,3 +38,9 @@ function removeElementFromBeginningOfArray() {
 
 }
 
+function destructivelyRemoveElementFromEndOfArray() {
+  var yogurts = ["vanilla", "coffee", "strawberry"];
+  yogurts.pop();
+  yogurts;
+}
+
