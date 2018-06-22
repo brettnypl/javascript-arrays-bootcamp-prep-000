@@ -32,5 +32,6 @@ function destructivelyRemoveElementFromBeginningOfArray() {
 }
 
 function destructivelyRemoveElementFromBeginningOfArray() {
+  var veggies = ["avocado", "squash", "potato"];
   
 }
