@@ -24,3 +24,10 @@ function accessElementInArray() {
   var presidents = ["washington", "adams", "jefferson"];
   return(presidents[2]);
 }
+
+function destructivelyRemoveElementFromBeginningOfArray() {
+  var fruits = ["apple", "grapes", "pears"];
+  fruits.shift();
+  fruits;
+}
+
